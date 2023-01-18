@@ -1,0 +1,20 @@
+/* Styling goes in this file */
+
+body {
+	font-family: Arial;
+}
+
+/* Any element with the class centered should have centered text */
+.centered {
+	text-align: center;
+}
+
+/* refer to sections of the webpage by their id */
+#p1 {
+	color: darkgreen;
+}
+
+.container {
+	border-style: solid;
+	border-color: black;
+}
