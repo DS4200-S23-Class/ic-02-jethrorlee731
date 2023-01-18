@@ -1,7 +1,7 @@
 # ic-02
 ic-02 - Intro to HTML and CSS
 
-(GitHub Pages)"[file:///Users/jethro.ronald.lee/Documents/School/DS4200/Classwork/ic-02-jethrorlee731/index.html]"
+(GitHub Pages)[https://github.com/DS4200-S23-Class/ic-02-jethrorlee731.git]
 
 ## Purpose
 
